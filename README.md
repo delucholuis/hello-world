@@ -1,4 +1,4 @@
 # hello-world
 just another repository
-this is jjust a test!
+this is just a test!
 1.1.0
